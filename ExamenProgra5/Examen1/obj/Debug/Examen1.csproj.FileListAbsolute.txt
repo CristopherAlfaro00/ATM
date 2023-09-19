@@ -1,0 +1,51 @@
+C:\Users\Admin\Desktop\Examen1\Examen1\bin\Debug\Examen1.exe.config
+C:\Users\Admin\Desktop\Examen1\Examen1\bin\Debug\Examen1.exe
+C:\Users\Admin\Desktop\Examen1\Examen1\bin\Debug\Examen1.pdb
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.exe
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.pdb
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.ATM.resources
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.ConsultarSaldo.resources
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.Depositar.resources
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.Retirar.resources
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.dineroRapido.resources
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.ConsultarNumeroCuenta.resources
+C:\Users\Admin\Desktop\Examen1\Examen1\obj\Debug\Examen1.Login.resources
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\bin\Debug\Examen1.exe.config
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\bin\Debug\Examen1.exe
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\bin\Debug\Examen1.pdb
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.csproj.AssemblyReference.cache
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.ConsultarNumeroCuenta.resources
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.dineroRapido.resources
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.ConsultarSaldo.resources
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.ATM.resources
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.Retirar.resources
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.Depositar.resources
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.Login.resources
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.Properties.Resources.resources
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.csproj.GenerateResource.cache
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.exe
+C:\Users\Cristopher\OneDrive\Documents\Programacion 5\ExamenProgra5\Examen1\obj\Debug\Examen1.pdb
+D:\VS Repositorios\ExamenProgra5\Examen1\bin\Debug\Examen1.exe.config
+D:\VS Repositorios\ExamenProgra5\Examen1\bin\Debug\Examen1.exe
+D:\VS Repositorios\ExamenProgra5\Examen1\bin\Debug\Examen1.pdb
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.csproj.AssemblyReference.cache
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.csproj.SuggestedBindingRedirects.cache
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.ConsultarNumeroCuenta.resources
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.dineroRapido.resources
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.ConsultarSaldo.resources
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.ATM.resources
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.Retirar.resources
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.Depositar.resources
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.Login.resources
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.Properties.Resources.resources
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.csproj.GenerateResource.cache
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.csproj.CoreCompileInputs.cache
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.exe
+D:\VS Repositorios\ExamenProgra5\Examen1\obj\Debug\Examen1.pdb
